@@ -1,0 +1,25 @@
+.container{
+
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(198, 190, 190);
+    width: 40%;
+}
+.container button{
+    background-color: forestgreen;
+    border: none;
+    color: rgb(198, 190, 190);
+
+}
+hr{
+    color:#fff;
+    width: 98%;
+}
+ul{
+    list-style: none;
+    padding-bottom: 10px;
+}
+.container-tareas{
+    display: flex;
+    justify-content: space-around;
+}
